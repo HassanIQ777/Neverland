@@ -136,7 +136,7 @@ int main()
 	max_health = 80 + (20 * level);
 	cls;
 
-	//start();
+	start();
 
 	//  The Main Loop of the Game (lmao)*/
 	while (true)
